@@ -32,16 +32,17 @@ If you are running the Laravel API on a different URL path, then you need to upd
 cd vue-app
 npm install
 ```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
 ## Use Example Import files
 
 ```
 Import:
 testtest.csv
 testtest2.xlsx
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
 ```
