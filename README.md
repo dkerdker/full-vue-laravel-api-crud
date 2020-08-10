@@ -3,7 +3,7 @@ A full Vue and Laravel with CRUD functions for API project.
 
 ## Laravel setup
 
-### Install composer dependencies
+### Install Composer Dependencies
 
 ```
 cd api-crud-demo
