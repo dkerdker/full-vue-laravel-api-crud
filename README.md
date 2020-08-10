@@ -6,7 +6,7 @@ A full Vue and Laravel with CRUD functions for API project.
 ### Install composer dependencies
 
 ```
-cd laravel-app
+cd api-crud-demo
 composer install
 ```
 
